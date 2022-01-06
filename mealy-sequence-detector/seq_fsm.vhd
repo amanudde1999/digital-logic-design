@@ -1,5 +1,5 @@
 ---- Company: Department of Electrical and Computer Engineering, University of Alberta
----- Engineer: Shyama Gandhi and Bruce Cockburn
+---- Engineer: Shyama Gandhi, Bruce Cockburn, Amro Amanuddein and Ahmed Ahmed
 ---- 
 ---- Create Date: 10/10/2021 03:41:32 PM
 ---- Design Name: 
