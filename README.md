@@ -1,2 +1,2 @@
-# overlap-sequence-detector
-This repository contains the source code for a "11011" overlap sequence detector using a Mealy Finite State Machine.
+# Digital Logic Design Projects
+This repository contains digital logic design projects that my partner Ahmed Ahmed (https://github.com/a-s-ahmed) and I developed in VHDL and tested using simulation and a Diglient Zybo Z7 board.
